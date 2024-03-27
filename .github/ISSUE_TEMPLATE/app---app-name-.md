@@ -1,8 +1,8 @@
 ---
-name: 'App: [App name]'
-about: to-do list for specific app within project
-title: "[Task]"
-labels: must have
+name: 'Models'
+about: Checklist template for creating models
+title: "Make Models"
+labels:
 assignees: EndaMagennis
 
 ---
